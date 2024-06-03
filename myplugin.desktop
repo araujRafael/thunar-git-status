@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.0
+Type=X-Thunar-Plugin
+Name=myplugin
+Comment=Mostra o status do git na pasta do thunar
+Icon=myplugin
+X-ThunarPlugin-Module=myplugin
